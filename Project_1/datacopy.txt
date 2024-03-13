@@ -1,0 +1,9 @@
+Testing are of many types---
+1.Functional Testing
+2.API Testing
+3.Non-Functional Testing
+4.Integration Testing
+5.Sanity Testing
+6.Smoke Testing
+7.Performance Testing
+8.Automation Testing
